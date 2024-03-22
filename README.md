@@ -1,4 +1,4 @@
-# Neural-Network-DL-ICP-9
+# Neural-Network-DL-Assignment-8
 Student ID: 700752115, Student Name: Rumana Shaik
 
 Video Link: 
