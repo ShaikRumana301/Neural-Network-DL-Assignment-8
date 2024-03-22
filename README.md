@@ -1,11 +1,11 @@
 # Neural-Network-DL-Assignment-8
 Student ID: 700752115, Student Name: Rumana Shaik
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1vyNwjGHVu_lZANuy3AK2WESaBa_flCRa/view?usp=sharing
 
 The following steps are followed for ICP-8:
 
-In Jupiter notepad written the code for the following and mentioned the comments for the code and uploaded the "NNDL-ICP-8.ipynb" to repo:
+In Jupiter notepad written the code for the following and mentioned the comments for the code and uploaded the "NNDL_ICP_8.ipynb" to repo:
 
  - First installed the packages Keras and Tensorflow.
  - Programming elements: 1. Basics of Autoencoders 2. Role of Autoencoders in unsupervised learning 3. Types of Autoencoders  4. Use case: Simple autoencoder-Reconstructing the existing image, which will contain most important features of the image  5. Use case: Stacked autoencoder 
